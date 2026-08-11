@@ -1,0 +1,13 @@
+id,name,category,cost,billing_cycle,start_date,status,notes
+1,Netflix,Streaming,649,Monthly,2024-01-15,Active,Premium 4K plan shared with family
+2,Spotify,Music,119,Monthly,2023-11-01,Active,Individual plan
+3,Amazon Prime,Shopping & Delivery,1499,Yearly,2023-06-20,Active,Includes Prime Video
+4,Google One,Cloud Storage,210,Monthly,2024-03-10,Active,2TB plan
+5,Adobe Creative Cloud,Software & SaaS,4230,Monthly,2023-09-05,Active,All Apps plan for design coursework
+6,GitHub Copilot,Software & SaaS,850,Monthly,2024-05-12,Active,Used for coding assignments
+7,Disney+ Hotstar,Streaming,299,Quarterly,2024-02-01,Paused,Paused during exam season
+8,YouTube Premium,Streaming,139,Monthly,2023-12-18,Active,Ad-free + background play
+9,Notion Plus,Productivity,480,Yearly,2023-08-22,Active,Team workspace for group projects
+10,Cult.fit,Fitness,999,Monthly,2024-04-01,Cancelled,Cancelled after gym membership elsewhere
+11,ChatGPT Plus,Software & SaaS,1950,Monthly,2024-06-15,Active,Used for research and drafting
+12,The Hindu ePaper,News & Magazines,199,Monthly,2024-01-01,Active,Daily digital subscription
